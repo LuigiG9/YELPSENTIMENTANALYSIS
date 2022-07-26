@@ -1,5 +1,6 @@
 # YELPSENTIMENTANALYSIS
-YELP SENTIMENT ANALYSIS
+
+# Business Recommendation
 
 The file "analisi-yelp.ipynb" contains an analysis of the Yelp Dataset with the aim of recommending 10 businesses to a specific user.
 We've used the "business.json","review.json" and "user.json" files from the Yelp Dataset.
@@ -42,6 +43,8 @@ At the end , we've obtained also a map with all of these locals:
 ![image](https://user-images.githubusercontent.com/58850870/181015352-c02e52a1-e507-4f67-b3d8-64fd0e93f386.png)
 
 __________________________________________________________________________________________________________
+
+# YELP SENTIMENT ANALYSIS WITH MULTICLASS CLASSIFICATION
 
 The file "big-data-final-project.ipynb" has been used to make a Sentiment Analysis of the reviews from the YELP dataset using SparkNLP and MLlib.
 
